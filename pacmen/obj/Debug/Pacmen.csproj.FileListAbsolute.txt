@@ -1,0 +1,87 @@
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.csprojResolveAssemblyReference.cache
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.FrmProfile.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.FrmMain.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.FrmPacmen.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.FrmPause.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.FrmSettings.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.Properties.Resources.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.FrmSelectProfile.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.csproj.GenerateResource.Cache
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\bin\Debug\Pacmen.exe.config
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\bin\Debug\Pacmen.exe.manifest
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\bin\Debug\Pacmen.application
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\bin\Debug\Pacmen.exe
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\bin\Debug\Pacmen.pdb
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.exe.manifest
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.application
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.exe
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\qPacmen\Pacmen\obj\Debug\Pacmen.pdb
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\Pacmen.csproj.GenerateResource.Cache
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\bin\Debug\Pacmen.exe.config
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.exe
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.pdb
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\bin\Debug\Pacmen.exe.manifest
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\bin\Debug\Pacmen.application
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\bin\Debug\Pacmen.exe
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\bin\Debug\Pacmen.pdb
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmHelp.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmHighScore.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmMain.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmPacmen.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmPause.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmSettings.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.Properties.Resources.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.FrmSelectProfile.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.UserControl1.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.csproj.GenerateResource.Cache
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.exe.manifest
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.application
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen - עותק (2)\Pacmen\obj\Debug\Pacmen.Form3.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmHelp.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmHighScore.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmPacmen.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmPause.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmSettings.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmSummery.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.Properties.Resources.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmSelectProfile.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.Waiter.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\bin\Debug\PacmenGame.exe.config
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\bin\Debug\PacmenGame.exe.manifest
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\bin\Debug\PacmenGame.application
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\bin\Debug\PacmenGame.exe
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\bin\Debug\PacmenGame.pdb
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.exe.manifest
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.application
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.exe
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.pdb
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\Pacmen.csprojResolveAssemblyReference.cache
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmNewUser.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.FrmMain.resources
+C:\Users\יששכר חטאב\Documents\Visual Studio 2012\Projects\Pacmen\Pacmen\obj\Debug\PacmenGame.games.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\Pacmen.csprojResolveAssemblyReference.cache
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\Pacmen.csproj.GenerateResource.Cache
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\bin\Debug\PacmanGame.exe.config
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmHelp.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmHighScore.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmMain.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmPacmen.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.games.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmNewUser.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmPause.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmSettings.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmSummery.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.FrmSelectProfile.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.Waiter.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\bin\Debug\PacmanGame.exe.manifest
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\bin\Debug\PacmanGame.application
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\bin\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\bin\Debug\PacmanGame.pdb
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.exe.manifest
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.application
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacmen\Pacmen\obj\Debug\PacmanGame.pdb
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\bin\Debug\PacmanGame.exe.config
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.pdb

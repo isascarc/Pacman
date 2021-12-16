@@ -1,0 +1,46 @@
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\bin\Debug\PacmanGame.exe.config
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.pdb
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\bin\Debug\PacmanGame.exe.manifest
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\bin\Debug\PacmanGame.application
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\bin\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\bin\Debug\PacmanGame.pdb
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmHelp.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmHighScore.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmMain.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmPacmen.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.games.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmNewUser.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmPause.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmSettings.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmSummery.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.FrmSelectProfile.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.Waiter.resources
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\Pacman.csproj.GenerateResource.Cache
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.exe.manifest
+C:\Users\יששכר חטב\Documents\projectsVS\Projects2\Pacman\Pacmen\obj\Debug\PacmanGame.application
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\bin\Debug\PacmanGame.exe.config
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.pdb
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\bin\Debug\PacmanGame.exe.manifest
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\bin\Debug\PacmanGame.application
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\bin\Debug\PacmanGame.exe
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\bin\Debug\PacmanGame.pdb
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmHelp.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmHighScore.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmMain.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmPacmen.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.games.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmNewUser.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmPause.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmSettings.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmSummery.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.FrmSelectProfile.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.Waiter.resources
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\Pacman.csproj.GenerateResource.Cache
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.exe.manifest
+C:\Users\יששכר חטב\Documents\Visual Studio 2012\Projects\Pacman\Pacmen\obj\Debug\PacmanGame.application
