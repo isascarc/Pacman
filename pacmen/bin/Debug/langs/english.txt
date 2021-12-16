@@ -1,0 +1,32 @@
+pacman
+welcome
+***
+new game
+continue game
+highScores
+settings
+profiles
+help
+exit
+***
+loading
+level
+points
+continue
+save game
+load game
+return to the main menu
+exit
+***
+select language
+play music
+play sounds
+OK
+***
+Select a profile
+Select a profile from the list
+add
+delete
+rename
+password...
+select
